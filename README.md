@@ -22,7 +22,7 @@ This project presents an SMS Spam Classifier built using machine learning techni
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/not-saad-zahid/Sms_Spam_Classifier.git
+    git clone https://github.com/not-saad-zahid/Sms-Spam-Classifier.git
     ```
 2. Open the notebooks with Jupyter Notebook or JupyterLab.
 3. Follow the step-by-step instructions to explore the data, train models, and test the SMS spam classifier.
